@@ -23,6 +23,9 @@ const Create = () => {
     },
     {
       name: "Rust"
+    },
+    {
+      name: "C++"
     }
   ];
 
